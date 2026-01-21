@@ -8,7 +8,7 @@ print(3 / 4)      # division
 print(3 ** 4)     # exponential
 print(3 // 4)     # floor division
 
-print(type(10))                             # int
+print(type(1011))                             # int
 print(type(9.8))                            # float
 print(type(3.14))                           # float
 print(type(4 - 4j))                         # complex
